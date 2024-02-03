@@ -1,2 +1,2 @@
 # kk-demo
-first git repository
+First git repository.
